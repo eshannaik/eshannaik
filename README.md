@@ -2,12 +2,12 @@
 
 ### Hello there, I'm Eshan Naik 👋
 ______________________________________________________________________________________________________________________
-## Glad to see you!!  ![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/freesdir)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.linkedin.com/in/eshan-naik-567573197/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.instagram.com/eshan_naik_/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://discordapp.com/users/446243528650260482)
-#### I am currently a Third Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things with.
+### I am currently a Third Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things with.
 
 #### Here are some ideas to get you started:
 
