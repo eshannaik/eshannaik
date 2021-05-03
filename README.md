@@ -1,5 +1,3 @@
-<h1 align="center" >WELCOME TO MY PROFILE</h1>
-
 ### Hello there, I'm Eshan Naik 👋
 ______________________________________________________________________________________________________________________
 ![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
