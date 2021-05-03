@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Eshan Naik 👋
 ______________________________________________________________________________________________________________________
-### Glad to see you!!  ![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
+## Glad to see you!!  ![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/freesdir)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.linkedin.com/in/eshan-naik-567573197/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.instagram.com/eshan_naik_/)
