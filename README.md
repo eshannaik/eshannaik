@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Eshan Naik 👋
 ______________________________________________________________________________________________________________________
-### Glad to see you!!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=eshannaik.visitor-badge)
+### Glad to see you!!  ![](https://komarev.com/ghpvc/?username=eshannaik&label=PROFILE+VIEWS)
 #### I am currently a Third Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things with.
 
 #### Here are some ideas to get you started:
