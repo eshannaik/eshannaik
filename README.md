@@ -11,14 +11,12 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on:
      - My Final Year project 
-     - Small projects on different models used in Machine Learning
+     - Small projects on different models used in Machine Learning and Deep Learning.
 - 🌱 I’m currently learning: 
      - Different models used in Deep Learning, Natural Language Processing
      - Java
 - 💬 Ask me about:
      - Python
-     - HTML
-     - CSS
      - C
 - ⚡ Fun fact: 
      - I like meeting new people 
