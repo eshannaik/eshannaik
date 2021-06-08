@@ -14,7 +14,7 @@ ________________________________________________________________________________
      - Small projects on different models used in Machine Learning and Deep Learning.
 - 🌱 I’m currently learning: 
      - Different models used in Deep Learning, Natural Language Processing
-     - Java
+     - Computer Vision
 - 💬 Ask me about:
      - Python
      - C
