@@ -26,7 +26,8 @@ ________________________________________________________________________________
      - eshannaik96@gmail.com  
 ______________________________________________________________________________________________________________________________ 
 ![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshannaik&count_private=true&show_icons=true&theme=dark)     
-[![Eshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eshannaik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshannaik&layout=compact)](https://github.com/eshannaik/github-readme-stats)
+
 
 <!--
 **eshannaik/eshannaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
