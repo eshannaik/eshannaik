@@ -25,6 +25,8 @@ ________________________________________________________________________________
 - You can contact me at : 
      - eshannaik96@gmail.com  
 ______________________________________________________________________________________________________________________________ 
-![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshannaik&count_private=true&show_icons=true&theme=dark)     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshannaik&theme=dark" />
+![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshannaik&count_private=true&show_icons=true&theme=dark)     
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/eshannaik/github-readme-stats)
+
 <!--
 **eshannaik/eshannaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
