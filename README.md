@@ -15,9 +15,10 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning: 
      - Different models used in Deep Learning, Natural Language Processing
      - Computer Vision
+     - React
 - 💬 Ask me about:
      - Python
-     - C
+     - C/C++
 - ⚡ Fun fact: 
      - I like meeting new people 
      - I like Sketching
