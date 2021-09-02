@@ -12,6 +12,7 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on:
      - My Final Year project 
      - Small projects on different models used in Machine Learning and Deep Learning.
+     - Learning MERN Stack.
 - 🌱 I’m currently learning: 
      - Different models used in Deep Learning, Natural Language Processing
      - Computer Vision
@@ -19,6 +20,7 @@ ________________________________________________________________________________
 - 💬 Ask me about:
      - Python
      - C/C++
+     - React
 - ⚡ Fun fact: 
      - I like meeting new people 
      - I like Sketching
