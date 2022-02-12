@@ -10,7 +10,6 @@ ________________________________________________________________________________
 #### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
-     - My Final Year project 
      - Small projects on different models used in Machine Learning and Deep Learning.
      - Learning MERN Stack.
 - 🌱 I’m currently learning: 
