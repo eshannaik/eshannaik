@@ -5,7 +5,7 @@ ________________________________________________________________________________
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.linkedin.com/in/eshan-naik-567573197/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.instagram.com/eshan_naik_/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://discordapp.com/users/446243528650260482)
-### I am currently a Fourth Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things. My portfolio -https://portfolio-eshan-naik.herokuapp.com/
+### I am currently a Fourth Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things. To view my portfolio <a href="https://www.w3schools.com/">Click Here</a>
 
 #### Here are some ideas to get you started:
 
