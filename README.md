@@ -6,7 +6,7 @@ ________________________________________________________________________________
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.instagram.com/eshan_naik_/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://discordapp.com/users/446243528650260482)
 ### I am currently a Fourth Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things. To view my portfolio 
-<a href="https://portfolio-eshan-naik.herokuapp.com/" target="_blank" rel="noopener noreferrer">click here</a>
+<a href="https://portfolio-eshan-naik.herokuapp.com/" target="_blank">click here</a>
 
 #### Here are some ideas to get you started:
 
