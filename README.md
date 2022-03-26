@@ -5,7 +5,8 @@ ________________________________________________________________________________
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.linkedin.com/in/eshan-naik-567573197/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://www.instagram.com/eshan_naik_/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&align)](https://discordapp.com/users/446243528650260482)
-### I am currently a Fourth Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things. To view my portfolio <a href="https://elegant-macaron-e22aec.netlify.app" target="_blank" rel="noopener noreferrer">click here</a>
+### I am currently a Fourth Year Computer Science Student at PES University. I love meeting new people to interact with and learn new things. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0fa8563-6592-4c08-b20e-ad0d568b8cfb/deploy-status)](https://app.netlify.com/sites/elegant-macaron-e22aec/deploys)
 
 #### Here are some ideas to get you started:
 
